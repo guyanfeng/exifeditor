@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "dependencies": {
+        "exiftool-vendored": "^26.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.10",
+        "typescript": "^5.4.5"
+    }
+}
